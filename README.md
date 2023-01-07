@@ -9,3 +9,4 @@
 24.12 Vladilen Gulp short course https://www.youtube.com/watch?v=qKcO04nJMu4&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&start_radio=1&rv=qKcO04nJMu4&t=1074
 
 Happy New Year Everyone! No war!
+07.01 Видеозапись доклада «Семантика или смерть». - https://events.yandex.ru/lib/talks/1520/

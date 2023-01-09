@@ -10,3 +10,4 @@
 
 Happy New Year Everyone! No war!
 07.01 Видеозапись доклада «Семантика или смерть». - https://events.yandex.ru/lib/talks/1520/
+09.01 https://jsbin.com/bevodezuyo/1/edit?js,console интересная задачка

@@ -13,3 +13,4 @@ Happy New Year Everyone! No war!
 09.01 https://jsbin.com/bevodezuyo/1/edit?js,console интересная задачка
 10.01 Решил её https://jsbin.com/hitoyex/edit?js,console
 16.01 https://github.com/nicothin/web-design для общения веб-дизайнера и верстальщика
+18.01 http://simonenko.su/38146501854/improving-ux-for-web-form Улучшение взаимодействия с формами

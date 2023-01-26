@@ -14,3 +14,4 @@ Happy New Year Everyone! No war!
 10.01 Решил её https://jsbin.com/hitoyex/edit?js,console
 16.01 https://github.com/nicothin/web-design для общения веб-дизайнера и верстальщика
 18.01 http://simonenko.su/38146501854/improving-ux-for-web-form Улучшение взаимодействия с формами
+26.01 https://www.youtube.com/watch?v=CaDnbOjXjRg Почему препроцессоры не нужны, Вадим Макеев
